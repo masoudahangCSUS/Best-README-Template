@@ -5,9 +5,9 @@
 </p>
 
 ## Overview
-The Callejo Inc. Childcare Website is a senior project created by Tech Squad, a team of Computer Science students at California State University, Sacramento. This project, spanning two semesters from Fall 2024 to Spring 2025, aims to support Jane Callejo's family-owned childcare business by developing a user-friendly website.
+The Callejo Inc. Childcare Website is a senior project undertaken by Tech Squad, a group of Computer Science students at California State University, Sacramento. Running from Fall 2024 to Spring 2025, this project is designed to support Jane Callejo's family-owned childcare business by creating an intuitive and efficient website.
 
-The website will simplify everyday tasks such as managing child rosters, tracking employee schedules, and monitoring expenses. By centralizing these processes, it will help improve efficiency, reduce manual errors, and enhance communication between the business and parents.
+This website will simplify key operations like managing child rosters, scheduling employees, and tracking expenses—all tasks that currently take significant manual effort. By centralizing these processes, the website will save time, reduce errors, and help the childcare business run smoothly. Additionally, it will strengthen the connection between the business and parents by offering timely updates and clear communication.
 
 ## Project Synopsis
 A more detailed description outlining the project's rationale, objectives, and how it benefits the client.
