@@ -1,13 +1,7 @@
-<table align="center">
-  <tr>
-    <td>
-      <img src="Company_logo.png" alt="Callejo Inc. Logo" width="100">
-    </td>
-    <td>
-      <h1>Callejo Inc. Childcare Website</h1>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="Company_logo.png" alt="Callejo Inc. Logo" style="width: 120px; margin-right: 20px;">
+  <h1 style="margin: 0;">Callejo Inc. Childcare Website</h1>
+</div>
 
 ---
 
