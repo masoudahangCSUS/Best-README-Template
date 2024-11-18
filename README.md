@@ -1,6 +1,6 @@
 # Callejo Inc. Childcare Website
 
-![Callejo Inc. Logo](Company logo.png)
+![Callejo Inc. Logo](Company_logo.png)
 
 ## Overview
 Briefly describe the purpose and goals of the project.
