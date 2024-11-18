@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Company-logo.png" alt="Callejo Inc. Logo" width="150">
+  <img src="Company_logo.png" alt="Callejo Inc. Logo" width="150">
 </p>
 
 <h1 align="center">Callejo Inc. Childcare Website</h1>
