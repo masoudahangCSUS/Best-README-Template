@@ -1,6 +1,7 @@
+<h1 align="center">Callejo Inc. Childcare Website</h1>
+
 <p align="center">
-  <img src="Company_logo.png" alt="Callejo Inc. Logo" style="display: inline-block; vertical-align: middle; width: 150px; margin-right: 10px;">
-  <span style="display: inline-block; font-size: 2em; font-weight: bold; vertical-align: middle;">Callejo Inc. Childcare Website</span>
+  <img src="Company_logo.png" alt="Callejo Inc. Logo" style="width: 150px;">
 </p>
 
 ---
