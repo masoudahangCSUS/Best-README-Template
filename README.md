@@ -5,7 +5,14 @@
 </p>
 
 ## Overview
-Briefly describe the purpose and goals of the project.
+The Callejo Inc. Childcare Website is a project developed by Tech Squad, a team of undergraduate Computer Science students at California State University, Sacramento. This project is part of a two-semester senior project course that spans from Fall 2024 to Spring 2025, fulfilling the senior project requirement for the team members.
+
+The project aims to create a comprehensive software solution for Callejo Inc., a family-owned childcare business managed by Jane Callejo. The business provides care for pre-k children and infants, with occasional services for elementary school-age children. The philosophy of the business emphasizes learning through play and exploration, allowing children to develop by engaging in activities, making mistakes, and learning from them.
+
+The website and mobile application will serve as an essential tool to support the day-to-day operations of the childcare business. By automating tasks such as tracking employee schedules, managing child rosters, and handling expenses, the software will streamline workflow and reduce manual errors. This solution will store critical information in a secure, centralized location that is easy to access, saving time and improving organization.
+
+Additionally, the platform will feature a reporting tool to provide insights into finances, staff workloads, and child attendance, helping Jane Callejo make informed decisions. Parents will benefit from the ability to view their child’s schedule, receive updates, and stay notified of any changes or important information, fostering trust and strengthening communication between the childcare business and families.
+
 
 ## Project Synopsis
 A more detailed description outlining the project's rationale, objectives, and how it benefits the client.
