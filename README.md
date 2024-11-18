@@ -1,7 +1,8 @@
-# Callejo Inc. Childcare Website
+<p align="center">
+  <img src="images/Company-logo.png" alt="Callejo Inc. Logo" width="150">
+</p>
 
-![Callejo Inc. Logo](Company_logo.png)
-
+<h1 align="center">Callejo Inc. Childcare Website</h1>
 ## Overview
 Briefly describe the purpose and goals of the project.
 
