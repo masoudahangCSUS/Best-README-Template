@@ -1,4 +1,8 @@
-# ![Callejo Inc. Logo](Company_logo.png) Callejo Inc. Childcare Website
+<p align="center">
+  <img src="images/Company-logo.png" alt="Callejo Inc. Logo" width="150">
+</p>
+
+<h1 align="center">Callejo Inc. Childcare Website</h1>
 
 ---
 
@@ -7,6 +11,7 @@ Briefly describe the purpose and goals of the project.
 
 ## Project Synopsis
 A more detailed description outlining the project's rationale, objectives, and how it benefits the client.
+
 
 ## Key Features
 - **Feature 1**: Description
