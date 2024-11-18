@@ -1,7 +1,7 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="Company_logo.png" alt="Callejo Inc. Logo" style="width: 150px; vertical-align: middle; margin-right: 15px;">
-  <span style="font-size: 2.5em; font-weight: bold;">Callejo Inc. Childcare Website</span>
-</div>
+<p align="center">
+  <img src="Company_logo.png" alt="Callejo Inc. Logo" style="display: inline-block; vertical-align: middle; width: 150px; margin-right: 10px;">
+  <span style="display: inline-block; font-size: 2em; font-weight: bold; vertical-align: middle;">Callejo Inc. Childcare Website</span>
+</p>
 
 ---
 
