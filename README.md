@@ -1,5 +1,6 @@
-# Project Title and Logo
-*Include the project title and any software logo here.*
+# Callejo Inc. Childcare Website
+
+![Callejo Inc. Logo](Company logo.png)
 
 ## Overview
 Briefly describe the purpose and goals of the project.
