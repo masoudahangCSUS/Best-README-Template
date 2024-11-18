@@ -5,14 +5,9 @@
 </p>
 
 ## Overview
-The Callejo Inc. Childcare Website is a project developed by Tech Squad, a team of undergraduate Computer Science students at California State University, Sacramento. This project is part of a two-semester senior project course that spans from Fall 2024 to Spring 2025, fulfilling the senior project requirement for the team members.
+The Callejo Inc. Childcare Website is a senior project created by Tech Squad, a team of Computer Science students at California State University, Sacramento. This project, spanning two semesters from Fall 2024 to Spring 2025, aims to support Jane Callejo's family-owned childcare business by developing a user-friendly website.
 
-The project aims to create a comprehensive software solution for Callejo Inc., a family-owned childcare business managed by Jane Callejo. The business provides care for pre-k children and infants, with occasional services for elementary school-age children. The philosophy of the business emphasizes learning through play and exploration, allowing children to develop by engaging in activities, making mistakes, and learning from them.
-
-The website and mobile application will serve as an essential tool to support the day-to-day operations of the childcare business. By automating tasks such as tracking employee schedules, managing child rosters, and handling expenses, the software will streamline workflow and reduce manual errors. This solution will store critical information in a secure, centralized location that is easy to access, saving time and improving organization.
-
-Additionally, the platform will feature a reporting tool to provide insights into finances, staff workloads, and child attendance, helping Jane Callejo make informed decisions. Parents will benefit from the ability to view their child’s schedule, receive updates, and stay notified of any changes or important information, fostering trust and strengthening communication between the childcare business and families.
-
+The website will simplify everyday tasks such as managing child rosters, tracking employee schedules, and monitoring expenses. By centralizing these processes, it will help improve efficiency, reduce manual errors, and enhance communication between the business and parents.
 
 ## Project Synopsis
 A more detailed description outlining the project's rationale, objectives, and how it benefits the client.
