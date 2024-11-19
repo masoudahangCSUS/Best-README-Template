@@ -4,17 +4,12 @@
   <img src="Company_logo.png" alt="Callejo Inc. Logo" style="width: 200px;">
 </p>
 
-## Overview
-The Callejo Inc. Childcare Website is a senior project undertaken by Tech Squad, a group of Computer Science students at California State University, Sacramento. Running from Fall 2024 to Spring 2025, this project is designed to support Jane Callejo's family-owned childcare business by creating an intuitive and efficient website.
-
-This website will simplify key operations like managing child rosters, scheduling employees, and tracking expenses—all tasks that currently take significant manual effort. By centralizing these processes, the website will save time, reduce errors, and help the childcare business run smoothly. Additionally, it will strengthen the connection between the business and parents by offering timely updates and clear communication.
-
 ## Project Synopsis
-The Callejo Inc. Childcare Website project is designed to address the operational challenges faced by Jane Callejo’s family-owned childcare business. The project aims to create an easy-to-use web platform that centralizes key operations, such as managing child rosters, scheduling staff, and tracking business expenses. By automating these processes, the website will reduce manual workload, minimize errors, and improve the overall efficiency of the business.
+The Callejo Inc. Childcare Website is a senior project developed by Tech Squad, a group of Computer Science students at California State University, Sacramento. Spanning from Fall 2024 to Spring 2025, this project aims to support Jane Callejo’s family-owned childcare business by creating an intuitive and efficient website.
 
-Developed by Tech Squad, a team of Computer Science students from California State University, Sacramento, this project spans two semesters and fulfills the requirements of the senior project course. The primary goal is to provide a tool that simplifies operations, supports better organization, and strengthens communication between the childcare provider and parents.
+The purpose of this website is to simplify the essential operations of the childcare center, such as managing child rosters, scheduling employees, and tracking business expenses. These tasks, currently done manually, are time-consuming and prone to errors. By centralizing these processes into a single platform, the website will save time, reduce mistakes, and improve the overall efficiency of the business.
 
-With features that allow parents to receive timely updates and notifications, the website aims to foster trust and transparency, enhancing the overall experience for families and ensuring that the childcare center operates smoothly and effectively.
+Additionally, the website will enhance communication with parents by providing timely updates and notifications, fostering trust and transparency. With streamlined workflows and clear channels for parent-provider interaction, the project aims to create a reliable and organized system that benefits both the childcare staff and the families they serve.
 
 ## Key Features
 - **Feature 1**: Description
